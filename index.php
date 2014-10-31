@@ -65,7 +65,7 @@ height: 1px;	}
   <div style=" height:15px; padding-top:60px; text-align:center;padding-bottom:10px; color:#000; font-size:16px; "></div>
 <div style="height:20px">
 
-<span style="float:right; font-size:16px"><img src="http://lh4.ggpht.com/srinivas.tamada/SMjzHjv978I/AAAAAAAAAT0/6vh8WXZhqdE/feed-ico.gif" /><a href="http://feeds2.feedburner.com/9lesson">Subscribe to my feeds</a></span></div>
+<span style="float:right; font-size:16px"><img src="http://lh4.ggpht.com/srinivas.tamada/SMjzHjv978I/AAAAAAAAAT0/6vh8WXZhqdE/feed-ico.gif" /><a href="http://blog.creditborrow.com">Go to CreditBorrow.com Blog</a></span></div>
   <div>
   <?php
   include('rssclass.php');
