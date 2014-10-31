@@ -9,7 +9,10 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>CreditBorrow.com</title>
+    <title>CreditBorrow.com - 24/7 Borrowing and Credit News Aggregator</title>
+      <meta name="description" content="Free 24/7 Credit and Borrowing, Loans, and Debt News aggregator">
+<meta name="keywords" content="news aggregator,aggregator, trans union, credit score, creditscore.com, creditreport.com, transunion.com, transunion, creditreport, experian, credit score, cheap credit report, debt clock, time and date, debt news, loan news">
+   
     <style type="text/css">
 	body{
 	font-family:"Trebuchet MS";
@@ -36,7 +39,7 @@ height: 1px;	}
         font-size:18px;
         font-weight:bold;
         text-align:left;
-        background-color:#006699;
+        background-color:#82C83A;
 		color:#FFFFFF;
 	   
         padding:5px;
@@ -58,8 +61,8 @@ height: 1px;	}
         }
     </style>
   </head>
-  <body style="height:80px; background:url(http://lh6.ggpht.com/_N9kpbq3FL74/SRsQfDF2nII/AAAAAAAAAqE/qP1kEU5oMTo/logochange.png) top no-repeat">
-  <div style=" height:15px; padding-top:60px; text-align:center;padding-bottom:10px; color:#000; font-size:16px; "><b>.blogspot.com</b></div>
+  <body style="height:80px; background:url(logo.jpg) top no-repeat">
+  <div style=" height:15px; padding-top:60px; text-align:center;padding-bottom:10px; color:#000; font-size:16px; "></div>
 <div style="height:20px">
 
 <span style="float:right; font-size:16px"><img src="http://lh4.ggpht.com/srinivas.tamada/SMjzHjv978I/AAAAAAAAAT0/6vh8WXZhqdE/feed-ico.gif" /><a href="http://feeds2.feedburner.com/9lesson">Subscribe to my feeds</a></span></div>
